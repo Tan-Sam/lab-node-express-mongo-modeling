@@ -1,1 +1,8 @@
 /node_modules
+*.md
+/public/javascripts/initAirport_org.js
+/routes
+/views
+/public/stylesheets
+/public/images
+
